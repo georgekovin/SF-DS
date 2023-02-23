@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 proj 1 Kovin/data/dst-3.0_16_1_hh_database.csv
 proj 1 Kovin/data/ExchangeRates.csv
+proj 3 Kovin/data
