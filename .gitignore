@@ -127,8 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-proj 1 Kovin/data/dst-3.0_16_1_hh_database.csv
-proj 1 Kovin/data/ExchangeRates.csv
+proj 1 Kovin/data
+proj 1 Kovin/data
 proj 3 Kovin/data
 proj 4 Kovin/data
 proj 5 Kovin/data
